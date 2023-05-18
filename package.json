@@ -1,0 +1,19 @@
+{
+  "name": "iamgroot2_bot",
+  "version": "1.0.0",
+  "description": "I am Groot - Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "vinals.alan@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
